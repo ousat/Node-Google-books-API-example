@@ -1,0 +1,19 @@
+{
+  "name": "google-books",
+  "version": "1.0.0",
+  "description": "search google books",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ousat/Node-Google-books-API-example.git"
+  },
+  "author": "Satish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ousat/Node-Google-books-API-example/issues"
+  },
+  "homepage": "https://github.com/ousat/Node-Google-books-API-example#readme"
+}
