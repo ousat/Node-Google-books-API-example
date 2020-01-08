@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ousat/Node-Google-books-API-example/issues"
   },
-  "homepage": "https://github.com/ousat/Node-Google-books-API-example#readme"
+  "homepage": "https://github.com/ousat/Node-Google-books-API-example#readme",
+  "dependencies": {
+    "googleapis": "^46.0.0"
+  }
 }
